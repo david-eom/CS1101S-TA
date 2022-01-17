@@ -3,4 +3,4 @@ CS1101S Programming Methodology is the introductory programming module taught in
 
 These are the slides for my studio sessions when I was an undergraduate teaching assistant for the module in AY21/22 Semester 1.
 
-Copied a s\*\*t ton of content from my TA @howtosee (thank you ser <3) but did a fair bit of my own adaptation heh
+Copied a s\*\*t ton of content from my TA [@howtosee](https://github.com/howtoosee) (thank you ser <3) but did a fair bit of my own adaptation heh
